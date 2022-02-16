@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 90c4c1f2-291b-1eef-411b-855b31ff194f
 ---
@@ -219,7 +222,7 @@ pp. 482-484 and 639-644
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Nerve cells, ion channels, synapse, Ca++ regulated events
+Nerve cells, ion channels, synapse, Ca{{< sup "++" >}} regulated events
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 276-287

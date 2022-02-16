@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e920d512-7754-bed2-7b81-651261e01aea
 ---
@@ -217,7 +219,7 @@ Signal transduction: Detailed molecular mechanisms
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Nerve cells, ion channels, synapse, Ca++ regulated events
+Nerve cells, ion channels, synapse, Ca{{< sup "++" >}} regulated events
 {{< tdclose >}}
 
 {{< trclose >}}
