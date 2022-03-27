@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ac0106ef-8b5a-6b69-ad4c-e2bea91de584
 resourcetype: Document
 title: 2007_section4.pdf
 uid: c10f8ae0-766a-c89a-d457-660509ff0611
