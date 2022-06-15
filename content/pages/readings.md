@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the required textbook for the course
+  and the schedule of readings by session and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -222,7 +224,7 @@ pp. 482-484 and 639-644
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Nerve cells, ion channels, synapse, Ca{{< sup "++" >}} regulated events
+Nerve cells, ion channels, synapse, Ca{{< sup "\++" >}} regulated events
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 276-287

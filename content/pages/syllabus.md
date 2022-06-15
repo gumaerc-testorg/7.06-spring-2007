@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on prerequisites, the textbook, recitations, grading, quizzes, problem sets, intellectual
+  honesty policy, and the schedule of course topics and exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -219,7 +222,7 @@ Signal transduction: Detailed molecular mechanisms
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Nerve cells, ion channels, synapse, Ca{{< sup "++" >}} regulated events
+Nerve cells, ion channels, synapse, Ca{{< sup "\++" >}} regulated events
 {{< tdclose >}}
 
 {{< trclose >}}
