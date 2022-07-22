@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the quizzes for the course with solutions.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: dd16d02c-cb73-bf21-f872-378a1d052d2b
 ---
@@ -35,7 +39,7 @@ QUIZZES
 Lectures 1-5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exam_1))
+({{% resource_link 855a5f51-9e42-aa92-7e64-21344d2c8b9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +51,7 @@ Lectures 1-5
 Lectures 6-11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exam_2))
+({{% resource_link aab22681-f918-a54a-65d6-4c6f3cb23dc8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +63,7 @@ Lectures 6-11
 Lectures 12-18
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exam_3))
+({{% resource_link a6928cfe-0ecf-0f97-56ba-536730b8f450 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +75,7 @@ Lectures 12-18
 Lectures 19-23
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exam_4))
+({{% resource_link 0a93a8a4-f8a8-1d38-4d17-fab258fb4ec1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
