@@ -5,6 +5,7 @@ file: /courses/7-06-cell-biology-spring-2007/4f164f9c12d95b8e1fac1441c2ebfb38_ps
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset3.pdf
 uid: 4f164f9c-12d9-5b8e-1fac-1441c2ebfb38
 ---
 This resource contains problem set 3.
-
