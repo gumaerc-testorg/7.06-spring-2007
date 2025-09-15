@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains problem set 4.
-file: /courses/7-06-cell-biology-spring-2007/f2285851e81f093796b7013223909c65_pset4.pdf
+file: /ol-ocw-studio-app/courses/7-06-cell-biology-spring-2007/f2285851e81f093796b7013223909c65_pset4.pdf
+file_size: 81965
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains a handout covering the main points of lecture
   6.
-file: /courses/7-06-cell-biology-spring-2007/c10f8ae0766ac89ad457660509ff0611_2007_section4.pdf
+file: /ol-ocw-studio-app/courses/7-06-cell-biology-spring-2007/c10f8ae0766ac89ad457660509ff0611_2007_section4.pdf
+file_size: 20103
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

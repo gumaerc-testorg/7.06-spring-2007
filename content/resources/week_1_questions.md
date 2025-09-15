@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains discussion questions from the first recitation
   section.
-file: /courses/7-06-cell-biology-spring-2007/27258a60eca523ca01604f0c31950ed4_week_1_questions.pdf
+file: /ol-ocw-studio-app/courses/7-06-cell-biology-spring-2007/27258a60eca523ca01604f0c31950ed4_week_1_questions.pdf
+file_size: 10898
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

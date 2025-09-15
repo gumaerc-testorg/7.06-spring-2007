@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains a quiz on lectures 12-18 of the course.
-file: /courses/7-06-cell-biology-spring-2007/a6928cfe0ecf0f9756ba536730b8f450_exam_3.pdf
+file: /ol-ocw-studio-app/courses/7-06-cell-biology-spring-2007/a6928cfe0ecf0f9756ba536730b8f450_exam_3.pdf
+file_size: 49835
 file_type: application/pdf
 learning_resource_types:
 - Exams
