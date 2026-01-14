@@ -10,12 +10,12 @@ uid: cae809c7-3e63-13f4-6c47-f9bfb332920c
 Interesting Links
 -----------------
 
-{{% resource_link "778b2221-f42f-43fa-8aed-3c82043688d8" "The Inner Life of the Cell" %}}
+[The Inner Life of the Cell](http://www.studiodaily.com/main/technique/tprojects/6850.html)
 
-{{% resource_link "df53c8ec-7d7f-4ada-b502-f5c72e6bcc6b" "Mitosis World Movies" %}}
+[Mitosis World Movies](http://www.bio.unc.edu/faculty/salmon/lab/mitosis/mitosismovies.html)
 
-{{% resource_link "3216865a-daee-41e1-8c32-962231cdbc22" "Davidson College Biology Videos" %}}
+[Davidson College Biology Videos](http://www.bio.davidson.edu/courses/movies.html)
 
-{{% resource_link "3216865a-daee-41e1-8c32-962231cdbc22" "Borisy Lab Movie Page" %}}
+[Borisy Lab Movie Page](http://www.bio.davidson.edu/courses/movies.html)
 
-{{% resource_link "5f550e1e-0812-4248-b0b1-211f1d9d3227" "The Biology Project Meiosis I and II Movies" %}}
+[The Biology Project Meiosis I and II Movies](http://www.biology.arizona.edu/cell_bio/tutorials/meiosis/page3.html)
